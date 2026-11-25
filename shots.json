@@ -1,0 +1,6 @@
+[
+  { "name": "1-service-rush.jpg", "query": "?shot=rush&seed=1" },
+  { "name": "2-last-call.jpg", "query": "?shot=lastcall&seed=1" },
+  { "name": "3-day-ledger-shop.jpg", "query": "?shot=shop&seed=1" },
+  { "name": "4-title-menu-book.jpg", "query": "?shot=title&seed=1" }
+]
